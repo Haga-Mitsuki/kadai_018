@@ -6,11 +6,12 @@
     margin: 20px;
   }
   .top-child {
-    display: inline;
+    display: inline-block;
     width: 20%;
     background-color: #ffd9df;
   }
   #middle {
+    position: relative;
     width: 800px;
     height: 800px;
     margin: 20px;
@@ -19,6 +20,7 @@
   }
   .middle-child01{
     position: relative;
+    display: inline-block;
     top: 100px;
     left: 100px;
     width: 200px;
@@ -27,6 +29,7 @@
   }
   .middle-child02{
     position: relative;
+    display: inline-block;
     top: 300px;
     left: 300px;
     width: 200px;
@@ -35,6 +38,7 @@
   }
   .middle-child03{
     position: relative;
+    display: inline-block;
     top: 500px;
     left: 500px;
     width: 200px;
