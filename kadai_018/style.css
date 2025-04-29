@@ -18,7 +18,7 @@
     padding: 20px;
     background-color: #ffd9df ;
   }
-  .middle-child01{
+  #middle-child01{
     position: relative;
     display: inline-block;
     top: 100px;
@@ -27,7 +27,7 @@
     height: 200px;
     background-color: #87ceeb;
   }
-  .middle-child02{
+  #middle-child02{
     position: relative;
     display: inline-block;
     top: 300px;
@@ -36,7 +36,7 @@
     height: 200px;
     background-color: #87ceeb;
   }
-  .middle-child03{
+  #middle-child03{
     position: relative;
     display: inline-block;
     top: 500px;
@@ -52,17 +52,17 @@
     background-color: #87ceeb ;
 
   }
-  .bottom-child01{
+  #bottom-child01{
     width: 400px;
     height: 100px;
     background-color: #e5dcf0;
   }
-  .bottom-child02{
+  #bottom-child02{
     position: relative;
     left: 200px;
     background-color: #87ceeb;
   }
-  .middle-child03{
+  #bottom-child03{
     position: relative;
     left: 400px;
     background-color: #87ceeb;
