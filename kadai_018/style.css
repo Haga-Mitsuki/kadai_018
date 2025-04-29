@@ -19,7 +19,7 @@
     background-color: #ffd9df ;
   }
   #middle-child01{
-    position: relative;
+    position: absolute;
     display: inline-block;
     top: 100px;
     left: 100px;
@@ -28,7 +28,7 @@
     background-color: #87ceeb;
   }
   #middle-child02{
-    position: relative;
+    position: absolute;
     display: inline-block;
     top: 300px;
     left: 300px;
@@ -37,7 +37,7 @@
     background-color: #87ceeb;
   }
   #middle-child03{
-    position: relative;
+    position: absolute;
     display: inline-block;
     top: 500px;
     left: 500px;
