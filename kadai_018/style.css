@@ -17,7 +17,7 @@
     padding: 20px;
     background-color: #ffd9df ;
   }
-  #middle-child01{
+  #middle- child01{
     position: absolute;
     display: inline-block;
     top: 100px;
@@ -51,7 +51,7 @@
     background-color: #87ceeb ;
 
   }
-  #bottom-child01{
+  #bottom div{
     width: 400px;
     height: 100px;
     background-color: #e5dcf0;
@@ -59,10 +59,8 @@
   #bottom-child02{
     position: relative;
     left: 200px;
-    background-color: #e5dcf0
   }
   #bottom-child03{
     position: relative;
     left: 400px;
-    background-color: #e5dcf0;
   }
